@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-23T10:54:28.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="sqNUbTYQRHtFoJP-c85n" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2024-02-23T10:59:32.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ZwUK3I4dZkz6W2HEzrps" version="23.1.5" type="device">
   <diagram name="Page-1" id="OHU-SYtt-npZF4PoFhkZ">
-    <mxGraphModel dx="2868" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
         <mxCell id="MEfozvx0OPqX_W-I6Wp5-20" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="1320" width="160" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="MEfozvx0OPqX_W-I6Wp5-21" value="- email: varchar(255)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- password: varchar(255)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- prenom: varchar(30)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- nom: varchar(30)&lt;br&gt;- telephone: varchar(15)&lt;br&gt;- organisateur: boolean&lt;br&gt;- favoris: json" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MEfozvx0OPqX_W-I6Wp5-20" vertex="1">
+        <mxCell id="MEfozvx0OPqX_W-I6Wp5-21" value="- email: varchar(255)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- password: varchar(255)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- prenom: varchar(30)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- nom: varchar(30)&lt;br&gt;- telephone: varchar(30)&lt;br&gt;- organisateur: boolean&lt;br&gt;- favoris: json" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MEfozvx0OPqX_W-I6Wp5-20" vertex="1">
           <mxGeometry y="26" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="MEfozvx0OPqX_W-I6Wp5-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="MEfozvx0OPqX_W-I6Wp5-20" vertex="1">
